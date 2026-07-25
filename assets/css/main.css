@@ -103,6 +103,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
+		background-color: black;
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
