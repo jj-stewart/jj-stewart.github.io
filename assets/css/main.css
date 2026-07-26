@@ -139,7 +139,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #7B5EA7;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1764,7 +1764,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #aaa;
+		color: #7B5EA7;
 		position: relative;
 		margin: 0 0 1.6875em 0;
 	}
@@ -1790,7 +1790,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #7B5EA7;
+		color: #A288A6;
 		font-size: 3.5em;
 	}
 
